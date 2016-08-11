@@ -5,6 +5,5 @@ Subsample the data set so 60% is training data and 40% is test data. You can sub
 Then, write code to classify the data into spam and not-spam, training with your training data and testing on your test data.
 
 spambase.py -- Contains column names carried into the jupyter notebook.
-spambase.ipynb -- Contains all findings from the assignment.
+spambase.ipynb -- Contains all findings from the assignment: https://github.com/tarakdavis/spambase/blob/master/spambase.ipynb
 requirements.txt -- Contains all required libraries in order to run the program.
-# spambase
